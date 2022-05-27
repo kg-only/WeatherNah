@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411095274738",
+    "project_id": "weathernah",
+    "storage_bucket": "weathernah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411095274738:android:9cc45455c1bfb383576c6b",
+        "android_client_info": {
+          "package_name": "com.example.weathernah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411095274738-b6v01fs00j8uia2g9pqau2l0jm5fqorm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weathernah",
+            "certificate_hash": "c060c0c37fb9e8e2936a6ec6d1de6a9dbf8c254a"
+          }
+        },
+        {
+          "client_id": "411095274738-tr8i8o9cknb4vmcut92c422sr6ciu5q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKgYUu7byzMFMFyq8P4ietATBf4CQ2oZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411095274738-tr8i8o9cknb4vmcut92c422sr6ciu5q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
